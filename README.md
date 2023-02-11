@@ -9,7 +9,7 @@
 ---
 
 ### Let's connect, I love to talk about tech 🧑‍💻⚙️
-<a href="[https://www.linkedin.com/in/arshraina/](https://www.linkedin.com/in/arsh-raina-b0b0b122a/)">
+<a href="https://www.linkedin.com/in/arsh-raina-b0b0b122a/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"  />
 </a>
 <a href="https://twitter.com/Arsh_raichura">
