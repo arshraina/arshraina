@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/arsh-raina-b0b0b122a/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"  />
 </a>
-<a href="https://twitter.com/Arsh_raichura">
+<a href="https://twitter.com/arshraina21">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" />
 </a>
 <a href="https://medium.com/@Arshraichura8">
