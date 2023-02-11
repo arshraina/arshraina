@@ -15,8 +15,8 @@
 <a href="https://twitter.com/arshraina21">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" />
 </a>
-<a href="https://medium.com/@Arshraichura8">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968933.png" />
+<a href="mailto:arshraina2003@email.com">
+  <img align="left" width="26px" src="https://www.flaticon.com/free-icon/gmail_732200?term=email&page=1&position=9&origin=tag&related_id=732200" />
 </a>
 
 <br />
