@@ -16,7 +16,7 @@
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" />
 </a>
 <a href="mailto:arshraina2003@email.com">
-  <img align="left" width="26px" src=https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico/>
+  <img align="left" width="26px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico"/>
 </a>
 
 <br />
