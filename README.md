@@ -3,7 +3,7 @@
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a student pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about Machine Learning, Entreprenuership, Music & I enjoy learning new things. </br>
+👨‍💻  I am passionate about Machine Learning, Entrepreneurship, Music & I enjoy learning new things. </br>
 
 
 ---
